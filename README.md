@@ -1,1 +1,1 @@
-Log
+A simple Python 2.7 library for colored log
