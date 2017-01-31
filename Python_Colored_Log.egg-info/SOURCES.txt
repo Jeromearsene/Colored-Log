@@ -1,0 +1,7 @@
+setup.py
+Log/Log.py
+Log/__init__.py
+Python_Colored_Log.egg-info/PKG-INFO
+Python_Colored_Log.egg-info/SOURCES.txt
+Python_Colored_Log.egg-info/dependency_links.txt
+Python_Colored_Log.egg-info/top_level.txt
